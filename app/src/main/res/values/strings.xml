@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SparqAssignment</string>
+    <string name="error_message">Failed to load items</string>
+</resources>
